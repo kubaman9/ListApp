@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nameTextView" type="id" />
+    <item name="quantityTextView" type="id" />
+    <item name="buyBeforeDateTextView" type="id" />
+    <item name="priceTextView" type="id" />
+</resources>

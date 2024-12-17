@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884833847092",
+    "project_id": "listapp-5dfdf",
+    "storage_bucket": "listapp-5dfdf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884833847092:android:83f63e8b894d56489e0761",
+        "android_client_info": {
+          "package_name": "com.example.listapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdbAqfeZTiDohzVbiK0NQPl8qKGP7txnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
